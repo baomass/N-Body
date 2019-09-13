@@ -1,2 +1,2 @@
 # N-Body
-jijiji
+Dynamic Model N-Body
